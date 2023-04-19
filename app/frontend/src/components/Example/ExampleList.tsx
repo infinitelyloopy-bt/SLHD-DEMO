@@ -9,11 +9,11 @@ export type ExampleModel = {
 
 const EXAMPLES: ExampleModel[] = [
     {
-        text: "It is only my wife and I and we don’t have children. What is the basic cover we can start with?",
-        value: "It is only my wife and I and we don’t have children. What is the basic cover we can start with?"
+        text: "What is the your right to information about?",
+        value: "What is the your right to information about?"
     },
-    { text: "Tell me more about the business results in the 2022 investor update", value: "Tell me more about the business results in the 2022 investor update" },
-    { text: "What is the waiting period for the Simple Hospital Basic Plus cover?", value: "What is the waiting period for the Simple Hospital Basic Plus cover?" }
+    { text: "What is the GIPA report?", value: "What is the GIPA report?" },
+    { text: "What is SLHD?", value: "What is SLHD?" }
 ];
 
 interface Props {
